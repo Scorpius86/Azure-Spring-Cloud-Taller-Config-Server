@@ -1,0 +1,5 @@
+applications:
+  microservicesjava:
+    message: Configured by Azure Spring Cloud - Java
+  microservicesdotnet:
+    message: Configured by Azure Spring Cloud - DotNet
