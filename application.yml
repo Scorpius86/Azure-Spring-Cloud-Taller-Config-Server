@@ -9,3 +9,6 @@ applications:
         uri: https://azure-spring-cloud-taller-cosmosdb.documents.azure.com:443/
         key: PbpRnR3HwsFhAYjQaGJBat2h5jD0Fa3nUxflB9eTlEdbwaVDpk22FFrSlTQCOMK3a3Nxj8GKhGD5g1vc6ygUig==
         database: taller-cosmosdb
+  weather-microservice-dotnet:
+    connectionstrings:
+      taller-mysqldb: Server=taller-mysqlserver.mysql.database.azure.com; Port=3306; Database=taller-mysqldb; Uid=tallermysqluser@taller-mysqlserver; Pwd=Password1234; SslMode=Preferred;
