@@ -3,3 +3,9 @@ applications:
     message: Configured by Azure Spring Cloud - Java
   microservices-dotnet:
     message: Configured by Azure Spring Cloud - DotNet
+  city-microservice-dotnet:
+    azure:
+      cosmosdb:
+        uri:https://azure-spring-cloud-taller-cosmosdb.documents.azure.com:443/
+        key:PbpRnR3HwsFhAYjQaGJBat2h5jD0Fa3nUxflB9eTlEdbwaVDpk22FFrSlTQCOMK3a3Nxj8GKhGD5g1vc6ygUig==
+        database:taller-cosmosdb
