@@ -7,7 +7,7 @@ applications:
     azure:
       cosmosdb:
         uri: https://azure-spring-cloud-taller-cosmosdb.documents.azure.com:443/
-        key: PbpRnR3HwsFhAYjQaGJBat2h5jD0Fa3nUxflB9eTlEdbwaVDpk22FFrSlTQCOMK3a3Nxj8GKhGD5g1vc6ygUig==
+        key: 0DOjkFtvGEccDtzVk8JR4xy6tHPbiWt898onKMoDXUUTOmWh9kcnzneTw79tNZjAEBUxrNSnJj8ei5Lbn2qbWg==
         database: taller-cosmosdb
   weather-microservice-dotnet:
     connectionstrings:
